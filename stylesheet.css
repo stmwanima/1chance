@@ -131,7 +131,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 100%;
 }
 
 .lesson-icon {
@@ -240,20 +240,16 @@ footer {
     width: 100%;
   }
 
-  .twitter {
-    margin-top: 10px;
-  }
-
   .top-wrapper {
     text-align: left;
   }
 
   .top-wrapper h1 {
-    font-size: 24px;
+    font-size: 30px;
   }
 
   .top-wrapper p {
-    font-size: 14px;
+    font-size: 30px;
   }
 
   .lesson {

@@ -271,4 +271,7 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  .img {
+    width: 100%;
+    height: auto;
 }

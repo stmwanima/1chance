@@ -18,7 +18,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 600px 0 100px 0;
+  padding: 100px 0 100px 0;
   background-size: cover;
   color: green;
   text-align: center;
@@ -149,7 +149,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 13px;
+  font-size: 50px;
   color: #b3aeb5;
 }
 
@@ -249,7 +249,7 @@ footer {
   }
 
   .top-wrapper p {
-    font-size: 30px;
+    font-size: 50px;
   }
 
   .lesson {

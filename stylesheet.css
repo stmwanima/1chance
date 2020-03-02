@@ -219,11 +219,11 @@ footer {
 
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
-    font-size: 32px;
+    font-size: 60px;
   }
 
   .heading h2 {
-    font-size: 20px;
+    font-size: 50px;
   }
 }
 
@@ -245,7 +245,7 @@ footer {
   }
 
   .top-wrapper h1 {
-    font-size: 30px;
+    font-size: 50px;
   }
 
   .top-wrapper p {
@@ -258,6 +258,7 @@ footer {
 
   .lesson-wrapper {
     height: 1700px;
+    width: 100%;
   }
 
   .message-wrapper .btn {

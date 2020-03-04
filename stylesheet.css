@@ -4,20 +4,20 @@
 
 @media(max-width: 670px) {
 
-body {
-  margin: 3;
-  font-family: "Hiragino Kaku Gothic ProN";
-}
+ body {
+   margin: 3;
+   font-family: "Hiragino Kaku Gothic ProN";
+ }
 
-a {
+ a {
   text-decoration: none;
-}
+ }
 
-.container {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-}
+ .container {
+   width: 100%;
+   padding: 0 15px;
+   margin: 0 auto;
+ }
 
 .top-wrapper {
   padding: 100px 0 100px 0;
@@ -190,10 +190,6 @@ footer {
     width: 100%;
   }
 
-  .top-wrapper {
-    text-align: left;
-  }
-
   .top-wrapper h1 {
     font-size: 50px;
   }
@@ -216,7 +212,10 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
   .img {
     width: 100%;
     height: auto;
+  }
+  
 }

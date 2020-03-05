@@ -7,7 +7,7 @@
  body {
    margin: 3;
    font-family: "Hiragino Kaku Gothic ProN";
-   width: 100%;
+   width: 600px;
  }
 
  a {
@@ -15,7 +15,7 @@
  }
 
  .container {
-   width: 100%;
+   width: 600%;
    padding: 0 15px;
    margin: 0 auto;
  }
@@ -55,11 +55,12 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  width: 600px;
 }
 
 .heading h2 {
   font-weight: normal;
-  width: 100%;
+  width: 600px;
 }
 
 .lesson-icon {
@@ -69,12 +70,12 @@ header {
 .lesson-icon p {
   position: absolute;
   top: 37%;
-  width: 100%;
+  width: 600px;
   color: white;
 }
 
 .text-contents {
-  width: 80%;
+  width: 600px;
   display: inline-block;
   margin-top: 15px;
   font-size: 50px;
@@ -83,7 +84,7 @@ header {
 
 .heading h3 {
   font-weight: normal;
-  width: 100%;
+  width: 600px%;
 }
 
 .message-wrapper {

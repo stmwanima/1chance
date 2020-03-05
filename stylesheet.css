@@ -7,6 +7,7 @@
  body {
    margin: 3;
    font-family: "Hiragino Kaku Gothic ProN";
+   width: 100%;
  }
 
  a {
@@ -58,6 +59,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  width: 100%;
 }
 
 .lesson-icon {
@@ -81,6 +83,7 @@ header {
 
 .heading h3 {
   font-weight: normal;
+  width: 100%;
 }
 
 .message-wrapper {
@@ -108,7 +111,7 @@ footer img {
 
 footer p {
   color: #b3aeb5;
-  font-size: 12px;
+  font-size: 20px;
 }
 
 footer {

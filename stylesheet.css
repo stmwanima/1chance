@@ -60,6 +60,7 @@ header {
 .heading h2 {
   font-weight: normal;
   width: 600px;
+  text-align: center;
 }
 
 .lesson-icon {
@@ -84,6 +85,7 @@ header {
 .heading h3 {
   font-weight: normal;
   width: 600px%;
+  text-align: center;
 }
 
 .message-wrapper {
@@ -113,6 +115,7 @@ footer img {
 footer p {
   color: #b3aeb5;
   font-size: 20px;
+  text-align: center;
 }
 
 footer {

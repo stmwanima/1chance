@@ -60,8 +60,6 @@ header {
   font-weight: normal;
 }
 
-
-
 .lesson-icon {
   position: relative;
 }
@@ -157,7 +155,7 @@ footer {
 
   .top-wrapper p {
     font-size: 50px;
-    heigth: 500px;
+    width: 500px;
     hight: 300px;
     opacity: 0.7;
     margin-bottom: 40px;

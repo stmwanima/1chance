@@ -71,14 +71,15 @@ header {
   position: absolute;
   top: 37%;
   width: 600px;
-  color: white;
+  color: #b3aeb5;
+  text-align: center;
 }
 
 .text-contents {
   width: 600px;
   display: inline-block;
   margin-top: 15px;
-  font-size: 50px;
+  font-size: 30px;
   color: #b3aeb5;
 }
 
